@@ -1,2 +1,17 @@
-# wechat_summary
-Summary for Madailicai Wechat Tech Group
+# Background
+麻袋理财互联网技术群从成立开始，聚集了近500位对互联网感兴趣的朋友，也分享了很多有意思的文章和进行了很多有意思的讨论。
+
+# What
+麻袋理财互联网技术群每周技术贴及讨论汇总。
+
+# Why
+更方便让大家阅读。
+
+# Who
+麻袋理财互联网技术群的成员。
+
+# When
+每周日下午更新一周的内容。
+
+# How
+如果你对麻袋理财互联网技术群感兴趣，请微信联系Grissom_sh。
