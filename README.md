@@ -15,3 +15,7 @@
 
 # How
 如果你对麻袋理财互联网技术群感兴趣，请微信联系Grissom_sh。
+
+# Summary List
+
+* [2016年第三周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w3.md)
