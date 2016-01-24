@@ -25,12 +25,4 @@
 # 麻袋理财
 
 Copyright &copy; 2016, 麻袋理财
-
-<div align=center>
-<img src="http://tp1.sinaimg.cn/5360958752/180/40095350112/1" width="100" height="100" >
-</div>
-<html>
-<body>
-<div align="center" style="border:lpx solid red">
 如果您对麻袋理财互联网技术群感兴趣，请微信联系misha13
-</div>
