@@ -22,9 +22,10 @@
 * [2016年第四周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w4.md)
 
 
-<br/>
-<br/>
-<br/>
+# 麻袋理财
+
+Copyright &copy; 2016, 麻袋理财
+
 <div align=center>
 <img src="http://tp1.sinaimg.cn/5360958752/180/40095350112/1" width="100" height="100" >
 </div>
