@@ -16,7 +16,7 @@
 # How
 如果你对麻袋理财互联网技术群感兴趣，请微信联系misha13。
 
-# Summary List
+# 每周技术贴汇总
 
 * [2016年第三周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w3.md)
 * [2016年第四周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w4.md)
