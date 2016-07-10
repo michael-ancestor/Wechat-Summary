@@ -43,6 +43,7 @@
 * [2016年第二十五周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w25.md)
 * [2016年第二十六周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w26.md)
 * [2016年第二十七周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w27.md)
+* [2016年第二十八周](https://github.com/MadailicaiTech/Wechat-Summary/blob/master/2016-w28.md)
 
 # 麻袋理财
 
